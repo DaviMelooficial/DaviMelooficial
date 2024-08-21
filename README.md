@@ -1,5 +1,4 @@
 # Olá, Me chamo Davi! 👋
-
 ---
 
 ## Sobre Mim
