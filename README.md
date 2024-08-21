@@ -1,7 +1,5 @@
-
 <h1 align="center"> Seja bem vindo(a)! 👋</h1>
-
----
+<hr/>
 
 ## Sobre Mim
 
