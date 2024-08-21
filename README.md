@@ -1,9 +1,12 @@
-# Olá, Me chamo Davi! 👋
+<p align="center">
+  <# Olá, Me chamo Davi! 👋>
+</p>
+
 ---
 
 ## Sobre Mim
 
-Me chamo **Davi**, tenho 21 anos e sou um apaixonado por tecnologia, desenvolvimento e o mercado financeiro. Atualmente, sou **Oficial da Reserva** da Cavalaria do Exército, formado no **Centro de Preparação de Oficiais da Reserva (CPOR) do Recife**.
+Me chamo **Davi**, tenho 21 anos e sou um apaixonado por tecnologia, desenvolvimento e o mercado financeiro. Possuo o título de **Oficial da Reserva** da Cavalaria do Exército, formado no **Centro de Preparação de Oficiais da Reserva (CPOR) do Recife**.
 
 Durante minha formação no CPOR, desenvolvi valores e competências que aplico diariamente em minha vida pessoal e profissional, como:
 
@@ -12,7 +15,7 @@ Durante minha formação no CPOR, desenvolvi valores e competências que aplico 
 - **Trabalho em equipe** 🤝
 - **Lealdade** ⚔️
 
-Essas qualidades me prepararam não apenas para uma carreira militar, mas também para enfrentar os desafios do mundo civil com determinação e integridade.
+Essas qualidades me prepararam para enfrentar os desafios do mundo civil com determinação e integridade.
 
 ## Minha Jornada Profissional
 
@@ -20,7 +23,7 @@ Essas qualidades me prepararam não apenas para uma carreira militar, mas també
 🎯 **Áreas de Interesse:** Mercado Financeiro, Forex, Análise de Dados, Desenvolvimento e Automação  
 💻 **Atualmente Estudando:** Análise e Desenvolvimento de Sistemas
 
-Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, estou sempre em busca de novas oportunidades para expandir meus conhecimentos e aplicar minhas habilidades. Meus estudos focam em **análise de dados**, **automação** e **operações voltadas para o mercado de renda variável**.
+Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, estou sempre em busca de novas oportunidades para expandir meus conhecimentos e aplicar minhas habilidades. Meus estudos focam em **análise de dados**, **programação**, **automação** e **operações voltadas para o mercado de renda variável**.
 
 ## Habilidades Técnicas
 
@@ -28,6 +31,15 @@ Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, est
   - Python 🐍
   - HTML & CSS 🌐
   - SQL 💾
+  - Java ☕
+  - JavaScript ⚡
+
+- **Bibliotecas e Frameworks:**
+  - Pandas 🐼
+  - win32 🪟
+  - PyAutoGUI 🖱️
+  - Kness 💻
+  - Express 🚀
 
 - **Ferramentas de Análise:**
   - Excel 📊
@@ -45,9 +57,17 @@ Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, est
 
 ## Entre em Contato!
 
-📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/davi-melo-oficial](https://www.linkedin.com/in/davi-melo-oficial)  
-📸 **Instagram:** [@_dmelos_](https://www.instagram.com/_dmelos_/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-melo-oficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/_dmelos_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ## Hobbies e Interesses
 
@@ -57,4 +77,6 @@ Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, est
 
 ---
 
-**Vamos construir algo incrível juntos!** 🚀
+<p align="center">
+  <b>Vamos construir algo incrível juntos! 🚀</b>
+</p>
