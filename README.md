@@ -8,7 +8,7 @@ Me chamo **Davi**, tenho 21 anos e sou um apaixonado por tecnologia, desenvolvim
 Durante minha formação no CPOR, desenvolvi valores e competências que aplico diariamente em minha vida pessoal e profissional, como:
 
 - **Disciplina** 🕒
-- **Liderança** 🧑‍✈️
+- **Liderança** 🏅
 - **Trabalho em equipe** 🤝
 - **Lealdade** ⚔️
 
