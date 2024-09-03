@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Me chamo **Davi**, tenho 21 anos e sou um apaixonado por tecnologia, desenvolvimento e o mercado financeiro. Possuo o título de **Oficial da Reserva** da Cavalaria do Exército, formado no **Centro de Preparação de Oficiais da Reserva (CPOR) do Recife**.
+Me chamo **Davi**, tenho 21 anos e sou um apaixonado por tecnologia, desenvolvimento e o mercado financeiro. Possuo o título de **Oficial da Reserva** da Cavalaria do Exército, formado no **Centro de Preparação de Oficiais da Reserva do Recife (CPOR)**.
 
 Durante minha formação no CPOR, desenvolvi valores e competências que aplico diariamente em minha vida pessoal e profissional, como:
 
