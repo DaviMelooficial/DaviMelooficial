@@ -28,7 +28,6 @@ Como entusiasta do **mercado financeiro** e **desenvolvimento de software**, est
   - Python 🐍
   - HTML & CSS 🌐
   - SQL 💾
-  - Java ☕
   - JavaScript ⚡
 
 - **Bibliotecas e Frameworks:**
